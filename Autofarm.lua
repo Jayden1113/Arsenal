@@ -130,6 +130,7 @@ spawn(
             local LocalPlayer = Players.LocalPlayer
             local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
             local ReplicatedStorage = game:GetService("ReplicatedStorage")
+            local Events = ReplicatedStorage:WaitForChild("Events")
             local JoinTeam = Events:WaitForChild("JoinTeam")
             local FallDamage = Events:WaitForChild("FallDamage")
             local RunService = game:GetService("RunService")
