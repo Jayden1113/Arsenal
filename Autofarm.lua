@@ -1,7 +1,3 @@
---[[
-    BAD CODE BELOW
-]]--
-
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
@@ -169,5 +165,3 @@ spawn(
     end
 )
 syn.queue_on_teleport("https://raw.githubusercontent.com/Jayden1113/Arsenal/master/Autofarm.lua")
-
-syn.queue_on_teleport('https://raw.githubusercontent.com/Jayden1113/Arsenal/master/Autofarm.lua')
