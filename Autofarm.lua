@@ -119,11 +119,14 @@ spawn(
 )
 spawn(
     function()
+        if not game:IsLoaded() then
+            game.Loaded:Wait()
+        end
         if game:GetService("ReplicatedStorage").wkspc.Status.RoundOver.Value == false then
             game:GetService("ReplicatedStorage").Events.JoinTeam:FireServer("TRC")
-            wait(0.8)
+            wait(0.9)
             game:GetService("ReplicatedStorage").Events.JoinTeam:FireServer("TBC")
-            wait(0.8)
+            wait(0.9)
             game:GetService("ReplicatedStorage").Events.JoinTeam:FireServer("Spectator")
 
             local Players = game:GetService("Players")
@@ -133,8 +136,12 @@ spawn(
             local Events = ReplicatedStorage:WaitForChild("Events")
             local JoinTeam = Events:WaitForChild("JoinTeam")
             local FallDamage = Events:WaitForChild("FallDamage")
+            local wkspc = game:GetService("ReplicatedStorage"):WaitForChild("wkspc")
+            local FFA = wkspc:WaitForChild("FFA")
+            local Status = wkspc:WaitForChild("Status")
+            local Preparation = Status:WaitForChild("Preparation")
             local RunService = game:GetService("RunService")
-            wait(1)
+
             repeat
                 for Index, Player in next, Players:GetPlayers() do
                     if Character:FindFirstChild("Spawned") then
@@ -161,4 +168,6 @@ spawn(
         end
     end
 )
+syn.queue_on_teleport("https://raw.githubusercontent.com/Jayden1113/Arsenal/master/Autofarm.lua")
+
 syn.queue_on_teleport('https://raw.githubusercontent.com/Jayden1113/Arsenal/master/Autofarm.lua')
