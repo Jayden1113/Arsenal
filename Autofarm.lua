@@ -1,1 +1,163 @@
-return(function(l,...)local w="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local b=l.c0a22GVIc;local Q=l[((#{977;406;(function(...)return;end)()}+848670856))];local D=l[.08904323591340484];local U=l[(373179551)];local f=l['kCNqSJCHdM'];local g=l[((#{628;(function(...)return 632,609,61;end)()}+478635637))];local P=l[(421184274)];local T=l[.08351236865087988];local q=l[.042003201805987954];local k=l[(572358229)];local v=l[(64900273)];local n=l[((#{406;}+960645284))];local t=l[((#{810;106;}+121281751))];local X=l[(785968923)];local E=l[.2809271171134557];local O=l[((#{101;[490]=742;730;}+527979851))];local i=l[((#{(function(...)return 556,922,949,26;end)()}+918234647))];local A=l[((#{605;197;218;763;}+248809605))];local d=l[((#{[497]=0;329;408;(function(...)return...;end)()}+521823075))];local H=l['kUwqJDbU'];local V=l[.8230917387749496];local Z=l[(771027085)];local p=l[((#{(function(...)return 142,...;end)(59)}+337432636))];local z=l[((#{624;629;685;(function(...)return 363;end)()}+281543998))];local W=l["oYy7BP"];local c=l[(199155422)];local S=l[(415922573)];local r=l[.20116845294887595];local x=l[(240802278)];local J=l['urL4aIqUeX'];local G=((getfenv)or(function(...)return(_ENV);end));local o,u,e=({}),(""),(G(c));local a=((e[""..l['ICGo8cIZO']..l[f]..l[n].."\51\50"])or(e["\98"..l[f]..l[n]])or({}));local o=(((a)and(a["\98\120\111\114"]))or(function(l,e)local n,o=c,x;while((l>x)and(e>x))do local c,a=l%t,e%t;if c~=a then o=o+n;end;l,e,n=(l-c)/t,(e-a)/t,n*t;end;if l<e then l=e;end;while l>x do local e=l%t;if e>x then o=o+n;end;l,n=(l-e)/t,n*t;end;return(o);end));local h=(t^O);local C=(h-c);local I,B,F;local s=(u[""..l["ICGo8cIZO"].."\121"..l[n]..l[r]]);local h=(u["\103"..l["OZ6avu"]..l[v]..l.ICGo8cIZO]);local v=(u[""..l[A].."\104"..l[d].."\114"]);local u=(u[""..l.OZ6avu.."\117"..l['ICGo8cIZO']]);local h=(e[""..l[n]..l[g]..l["lzeCkgIQ"].."\101"]);local g=(e["\112\97"..l[f].."\114"..l["OZ6avu"]]);local h=((e["\117"..l[i]..l['lzeCkgIQ'].."\97"..l[A].."\107"])or(e[""..l[n].."\97"..l["ICGo8cIZO"]..l["xk5Ud99"].."\101"]["\117"..l[i]..l['lzeCkgIQ']..l[d]..l[A]..l[.4761648790334188]]));local J=((e[""..l[E].."\97\116\104"]["\108"..l[k].."\101"..l[J].."\112"])or(function(l,e,...)return((l*t)^e);end));local k=(e[""..l['OZ6avu']..l[r].."\108"..l[r]..l[A].."\116"]);local A=(e["\114"..l[d]..l[.526812108478887].."\115\101\116"]);local L=(e[""..l[E]..l[d]..l[n]..l[Z]]["\102\108\111"..l[D].."\114"]);local Y=(e[""..l['OZ6avu']..l[r]..l[n]..l[E].."\101"..l[n]..l[d]..l[n]..l[d]..l['ICGo8cIZO']..l["xk5Ud99"].."\101"]);local A=(e[""..l[n].."\111\110\117\109\98"..l[r]..l.ETxu99]);local N=(a["\98"..l[D]..l.ETxu99])or(function(e,l,...)return(C-F(C-e,C-l));end);B=((a[""..l['ETxu99']..l.OZ6avu..l[Z]..l[f].."\102\116"])or(function(e,l,...)if(l<x)then return(I(e,-(l)));end;return(L(e%t^O/t^l));end));local C=(a["\98\110\111"..l[n]])or(function(l,...)return(C-l);end);I=((a[""..l['xk5Ud99'].."\115\104"..l[f]..l[X].."\116"])or(function(e,l,...)if(l<x)then return(B(e,-(l)));end;return((e*t^l)%t^O);end));F=(a["\98"..l[d]..l[i].."\100"])or(function(e,l,...)return(((e+l)-o(e,l))/t);end);if((not(e[""..l["ICGo8cIZO"].."\105\116\51"..l[T]]))and(not(e[""..l['ICGo8cIZO']..l[f]..l[n]])))then a[""..l.xk5Ud99.."\115"..l[Z].."\105\102"..l[n]]=I;a["\98"..l[D].."\114"]=N;a[""..l["ICGo8cIZO"].."\120\111"..l["ETxu99"]]=o;a[""..l["ICGo8cIZO"].."\97\110\100"]=F;a[""..l["ETxu99"].."\115\104"..l[f].."\102\116"]=B;a["\98"..l[i].."\111"..l[n]]=C;end;local i=(e[""..l[n].."\97\98\108"..l[r]]["\99"..l[D]..l[i].."\99\97"..l[n]]);local L=(((e["\116"..l[d]..l['ICGo8cIZO'].."\108\101"]["\99"..l.ETxu99..l[r].."\97\116\101"]))or((function(l,...)return({h({},x,l);});end)));local t=(e[""..l[n].."\97\98"..l.xk5Ud99.."\101"]["\105\110"..l.OZ6avu.."\101"..l["ETxu99"].."\116"]);local n=(e[""..l[n].."\97"..l['ICGo8cIZO'].."\108\101"][""..l.ETxu99.."\101"..l[E].."\111"..l[z]..l[r]]);e[""..l["ICGo8cIZO"]..l[f].."\116"..l[p]..l[T]]=a;local e=(P);local t=(#w+S);local a,r=({}),({});for l=x,t-c do local e=v(l);a[l]=e;r[l]=e;r[e]=l;end;local E,t=(function(n)local x,o,l=s(n,c,V);if((x+o+l)~=W)then e=e+H;t=t+q;end;n=u(n,Q);local e,o,x=(""),(""),({});local l=c;local function d()local e=A(u(n,l,l),U);l=l+c;local n=A(u(n,l,l+e-c),U);l=l+e;return(n);end;e=r[d()];x[c]=e;while(l<#n)do local l=d();if a[l]then o=a[l];else o=e..u(e,c,c);end;a[t]=e..u(o,c,c);x[#x+c],e,t=o,o,t+c;end;return(i(x));end)("PSU|1x1f101021I21Q1827622121M21r1Z1E15111122A23i22027622W1s1014132211L1022l1j1M22h2211e1T1S1T1N1n161M1n1H1c111Q1h1B1Q22I2251c1221u22T2171O1t111B22n276121s23221F111M1B1f1d21V21u1c1I171h1n22l23221G111r19171J1v2931p1K22f21o1a27621z1Y1h21321i1N141v1a1622B21h132762371A1n22G21e142762231Y1A1822l21P1B2762241Z28J1d21o21O1D1o1s1N21W21f15276234121T1R1R22h2131h276235141G2b821M21c1121d2171h19191l1v1t1621u21m1c2a32a51F1h131M21x22711121l22721D172762282Ao2Aq1N1121X21c162aI27F27H27J2A827622F21i181t21u2AU2A3131h1M1P2A72a91022v161C1822B2AG2A31m287171n21M21f1327G21X1x2761I1a1l1D2762761x131Y2Di276111I1J2DN1023o24l21527a1027i276142CU2DE2DG2Dn1x2162Ah1a29O102DK2dm1b2ah2Dy2832ds2de1R2a22DI23o23U101E2DS102e92DD1A1u2Cb2Em24l21B2eQ2dy112761C2Bo102de1m2f12762eN1O1M2ER1E2F12E32DH2di2EC1012122dD1h1A1928T12112112122FO2FK2e710152AV2eB2Dl27q2e228e2dx2fN111G1J2Fy2eU1K2F628T1t1V2Di27i112EH2dN2DE2gG2dn2ay1u2f32F22gN1T2EI1a2Ek2E52g0172c22f71H2fu2Do27I2Go2GL2dY2DS132A22fn2761Q1q27621i2cG2cv2cx2cZ21r2Fs1022a21P1Q1r1a21721L1j1n22D21221j2HN23B1m2CK21U2HR27623b151R1T2bS1f151922B2C12C32Ao121621821922a29N27622C141221J1H11171s1B2as2Iu1029q29S29U29w29y22B21i2dI21i2Cn102342gd2DH22I2Hn22S151l1h22B2JH23b1s1O131J22D2d11022021o27Q1z2JA29X29Z2J62221P1S28q2171d1C1B112js2G32cW2Cy2As2B327622A21J1l1s151A2By2J021j2132If1J16122KJ2762381l2d92IK2A12dj1b22m21U2hN22w171q1721w2112Dr102261x1r21321E2CY21I2ja2I11122L21W2KB1122G2Jh22E21j1d1p1g22b21g2fy2331s21X2792IV21d2BG2bI2bk21U2MA27622N1o2352Ca27622B2131L1l11162C92eX22X171t2882bL2jE2f71a1f1N2DN21d21N141e2HH2n72n92H22aH2fg27624K24J21E21H2FT2762g22EU2h12gL1J1I2Gz1o2ds2FL2H42fp1c2752Fm2Fu2Fw2gE2EB2g02eE2DJ2g01O2o02OB2Ah2dz2OI101k1k2nM24j152FY2ng2B82eu2oh2fZ2Ah2nT2dy182HS2f21I2G82ft2de1D27u102Hf2E618132E92hf2P42p42e0142Dp2lm2pa132Pc131I1i2HF11132gE2E12de2bf2ns152cb2EX2F2162cB2gm2DQ2dI2G22dU1c2192h92g21U1U2EU181G2762q52e61d161P1P2Q5112102102gv2h42qT2122eL18182gb1p2dX2Q52De1S2CU2r61H2gC2762h42dE2Ow2R12dK216182H42R12P41f2f62E92fV21a2Ea2RH132rj1d1D2R12QT2Qv2762rq1n1s2rt2R21C2fj102q52Cb172gv2E12q52O72dn2dz2pG29g2eX2Sb27q2Fy27i2sG2FN2962BT2Ql162de1e2fE2Sa16112Nx2Di2qs2RB2He2PV2Oa2F32gv2Di2OD2HF2sV2hL2K92m01a1x2cX2kH22b2j62j829T29V2K722B2lL2762Lo2lQ2Ls182lu29v2lw2ly2m022g2Mf1023629V2Or2II2iK2Hn2kL2cZ2K02k22k42k629Y2322eF2r72cU2Dj2g52ok2P4162G32GA2o92E52G52gp2H02eL2SS2J02Fy2PT1e2o62o728C1r2ds112kf2vb2hD2dn2e12Ds2Hj2HL2jn2Jp1L23I2gK2Dn1G22823a2IM2k12k31421j29R23h21r2MM1022x1d23f2Vp2di26O25R192Jh2341h181r2C82i62I82cl2u62381r1S17161R171921s2I41p21B27621b22K288142Lw22k23j2111n27g1A22k2242831621n21P1m111N22723G21E1G21x222152E11T22128b102bU1m2sD2832271B2hN2321R1p1022i2UG2vW2K52tr2JC2TH2kc2Tj2TL2kI2wc2jk2y52n6101v2w72DN21i1k2dM1027o27Q27S27u2202hp1m22L22K1T1d1e131n22e28i28k22h21z1U2yX2cy1M22k1P2j62311C1p2142c52AR2C82Wl2WG1r1o1f2d521W2Ud2HP22B21k2f12UL1T1C21021d2L221221I2Xx1t21w2Mr2W32N22n42cM2G32L62l82Il2H52341S2Ap1G2WS22929s2Wy2x02u12c72X42X62x82Xa2Xc2XE2xG2xi2XK2xm2Xo2xQ2xs2f323122L2DO2XP2Gl112nN182O61f1F27I2ng2DE1c2OO2f22E61A112f527i2dK1z2vc1d27I311p311R2pb2pO2T82pg1h2Pi2G127h2g22GV2RA1q2y4102qX2jq152H4312d1N1j2g32Pt2hW311G2s02Tb2Pn1S27P2DI31232h9311T311V28b11311Y312031221a311Q27631252dk2fn3128312a312d312D2SV2p4192EA2Qx311F2762RZ312K2R1312N312p313B132V9312t2qu312V2P42o531312g02MV2Fn2EN2172112gS122Ym2Oe2ah31451224k23R163149102EE2Fn1x2Dc2OL314f314H314J313v2Fn1z1Z314D10314F2vC2gh2V21J2qK2O72dE2Ew313V2e62EF2G611142AV2g22hF2Hf22j22j2SI2pT313p182De1g2dX2bg2e61C172e12rq2q82762bG2qT2182Hs31381B2LM315S216315u2pr315x2PM2bg2De31652S22TJ3168172OG2Ee2pl2di2E923O24e21t315k102bg2e92Lu2eU3158316t19112q12FY2Rq315e314L1B2Bg2hF2242242DN314h22q21T2762b82Fn21N21N2eU315q2762fG2qT2142FJ311l316m317N1E23O24A22D223317U27i21R21r2DO2pV2Di2R12HF223317z312z1a316f2ep1e3171172EL317S315y318E316e2Lm317S210317q317G1G317t10311l23O23W21V318a311L2FG22027m2N72f9317u2q22DI2fn317S2pv2bX313W318K2FG1X21P1U122G2314624d1Z21M2fT2BG2252252oP22K316s2bG2R12262262eU2ni316Z2e612191M1M31603172316g312u276316L1G1q2eF316D1A1v2h531602T3315Z192F82F12Bg2sc2Gv2Hf2rq319b2HD2gm2Hb31AH31Aj31aN2p42h82eS311u31az1923O24D21f2162Ft2hf22K22k2dO2Vf2DI1h2b42ng2vH2772vu22s11313l2Ub2tT2LM2Tw2Lr2LT2lv2C72u32KC2M2310I2L71e2ik310d2N12N328623j2UM1A2OW2FP31B431aY2gY2SI2p12vB2vD2uZ1Q2oA315a2pN311E2uo2gm313I2V82Gc2t931Bi313V2Ds2od2772tO29r2tq2jb29z2iB102ID2IF2IH2IJ31bu2tv2LP31bX2TZ31BZ2LX2lz31c22Y72uI2Ya29Z2k02aJ2aL2aN2aP2aR21w2vU2C431Dx2C721x2YC2Kd2Kf2tM1X2na1022C2mh2bh2bj161W21N21R2iO2iQ2131t171L29129Z21L2O631ec2Mi31EF31D72ts2zx2CY22B2WI2CK2302oH2DE1P31402v32H92PY2HS314n131w2Os122PI2el2e12fV1W2cU31fD31fF2q52gA313o315C1N1I31FN2Fu2s82gz2DE2si31AM318B2pz2FK2uy312z2P52v82UW31G52dm2o32Dy31Cw31FR2L2313v31Fb2pj2e61f315e2xp1431GL2E131gR2gb1L2Uo31AX2DS2oZ31982fy2jg2g32jj122jl31f21t23G2dx31F6312V28y31eA2eM23U29f2er2TE2N731cf2sa31hl2h92gM2TA2hB31D12VE312v2Sh2OK2Ng21i2j62Iw2IY2J02j22j421w2Yk31GD2rF2vB31G231CT2ds314h2112Ex2Ok31BN31I731G12ny2si31d02sh2Dn1y2yr21I31E02zn31E32LA1021Y312i22M2yN10268267192hn2cI2CK22z31Iz2W9192j622A2kz21P2uj29z310d21X21F1J28F1731e42Ea21y2132DH2142112F52L22l4102M42M62m8310027621Y21B171A1y21B2WG1721J21731711822a310D2Mt2MV2mX21X31EZ2Cz31D51h21031iS2zp2dX22231iD1721m21d141C22J2ko2HT2kR2Kt2Kv2jQ112KY2l031JV31kn31ex2jC2vU21W1X2Xw162N322731k11021v217191j2gD2891N21f314927I22a31dA31ln31lp31lR29821W31DA2hU2Hw2HY2i02aS2Y11B3103310h2Ic2Jv2jX22D2j631k31r1n2u02X22as31iu22c161H23931dT2ak31h431DW2c631Dz2H522B1Z2CQ1P2kH31lX2HS31n11l161N2mv2If21w31mP2xG23921N2fJ2Kq1b311u1N1x2b327u2mW22a31H621u2K02281y31Nb1h31lQ1l2bk2m12BN2Ch2cj1T21e2151t2Bd31kd21V29T2YH31h42Pa2332eu31jk2UX2dM311L2fP2z32FT2Fv2fX2nj314z2p931CR2eT2oL31lq314Y2r12oP22x2322761W1W31an31oJ315B2g431om2O62P431op31g931oS2oX2T0314Y2Rx2Up2dM31a62FP1k31Ea2ga31cy2Uz1531CJ2fP2bX31Hn31HQ2n731ok31GB318u31pd1h31pf2uV31Ph314Y2sG2Ol31Pl31pb2XU2sz2P41O2vA31Cx2Gd31pU31PW2H631Py2gw31q02dE31Q231pM31q431Oo2F131q831cq2g031qB31Cr31qd2fL31pO2h61p2hK31qk2oA31Qs31pa2fl31oN2h62el31PG31Qz2Ah2OG311x216311u2pR314624l1l21g2h92Fn21D21d2OE311U31bK31Fo122hF2GA318k2ss1a31q2313c13311l312831pF312d2111X312Q31262dk2YM2pX1h2q12sV2fV1Y2EX2E12dk21229w1v2g22p41E2fj2QX2111Z2h52G231ss31SU2RA142h52rz2112182R52sw31S62EF2H42dK21117311l2RE31Q631Aq31702112192hS31th1331TJ2YM31tm1m2P9316031tQ31TS1731ti172yM2rm2H72Gv2rQ2112Rs315N31u42Ym316D2bF2ea316l21121b31Ag192dK31lo2yM2E92p41t2Qh10311w2112142Rp1A31Rb31AC1b2dK2152901F2Ee2US2G32rX2fv2152FJ31V81a31PV2f42951H315v27631Vb2HB2f5313031Uv1C2fL2f531vB31752Fg2Rx2HF22v22V2Ux31fF2bg31BK2P4312G27631LQ2Fv21J2Lm31BK2en23122r2dn31bk22o22o2Oe19122qQ31bK2Dk21F2rB1G31BK2gx31BJ31291a21L314p31bk31972pJ2pr102ou2hH2sG316L2hB31wu2t6276318V24d21x31bG2O72f522w22W2oE314l312x2F52Dk21a1C2HF311W31Vo31VS216112ad182F52en22e22G2dN2F52312312DO31xc2HC31Ht2oN2F2317u2hl2VU22E21f31nA2iF21T152U622821r1S1q1T31O222g31LY31Lo31lQ1231lS21w31NI2kP21j31nl2xh31no1H31nq2Cf2Cu31j52CL310d2201x2n31D1n2262lf1T1i2l3212315522021p1o2O52mx1D21I21p101r31052l121u31iu2Ul1i22W2yN22Y24Y2482vT31n031n22cr31N52hn2ZJ2ks22m31ll31k331K531k731K931KB31KD2IT31Jo31K831ml31bz21s21e31Ia31OT2Ng31Vt2f6313k2EA31Qy2DN2EN1h31IZ31PJ31Ge27h31oT31gd317131Cu313531RM2Bx2fu321I311u312D321M31Ho111h21d1x2GM311e31GH31q331QD2P42FR31OQ31fs2Pb2rj31272PO3225315G313w1g2PS2si312L31rG2OL31hi2fL31bN31WV322D31gV2Ol32112G52F52fP313L31Oq31GA2fb24L21331IE2gv2qg313V31rv322l2O12G0322O2dM322Q2h6322S31rh321724l1g31rW31yE10211314K3171321D31Pi31I631ce311g31322rz2Dp31TF2fT2E631wM31fq31fH323T2PN2pp2q52PG323z31sR21631GM2Q531fK21131fM2h9321S321U2Ok2tA31gx2g32Di"),(#w-b);local function n(l,e,...)if(l==310820475)then return(o((o(o((e)-457957,35198),278557))-209336,503336));elseif(l==807254654)then return(o(((o(e,807065))-813599)-31003,238391));elseif(l==711348820)then return(((o(e,322988))-639434)-486828);elseif(l==849309946)then return((((e)-972649)-949397)-32631);elseif(l==110258080)then return(((o((o(e,689203))-55326,87843))-781556)-444527);elseif(l==834689849)then return((o(((o(e,654184))-634219)-734799,390438))-508520);elseif(l==459594971)then return(o(((o((e)-82838,213841))-410572)-961235,226512));elseif(l==9545560)then return((o((o(o(e,885162),895098))-972762,747949))-204770);else end;end;local n=l[(697296372)];local A=l[((#{}+742059256))];local D=l[(240802278)];local f=l[(80180686)];local c=l[(199155422)];local i=l[(121281753)];local x=l[.8230917387749496];local C=l.Wf6lo;local function d()local l=o(s(E,t,t),e);e=l%n;t=(t+c);return(l);end;local function a()local c,l,x,a=s(E,t,t+x);c=o(c,e);e=c%n;l=o(l,e);e=l%n;x=o(x,e);e=x%n;a=o(a,e);e=a%n;t=t+A;return((a*C)+(x*f)+(l*n)+c);end;local function f(n,l,e)if(e)then local l=(n/i^(l-c))%i^((e-c)-(l-c)+c);return(l-(l%c));else local l=i^(l-c);return(((n%(l+l)>=l)and(c))or(D));end;end;local function x()local l,c=s(E,t,t+i);l=o(l,e);e=l%n;c=o(c,e);e=c%n;t=t+i;return((c*n)+l);end;local Z="\35";local function U(...)return({...}),k(Z,...);end;local function T(...)local H=l['R74Qi'];local p=l[.37221233750330857];local U=l[.8230917387749496];local I=l[(121281753)];local G=l[((#{34;572;(function(...)return;end)()}+742059254))];local c=l[(240802278)];local V=l[(401241122)];local Q=l[(84819766)];local v=l[(570933015)];local C=l[((#{831;[534]=809;261;341;}+809135617))];local O=l[(336068399)];local D=l[(848670858)];local n=l[(199155422)];local T=l[.2044827803990258];local A=l[(697296372)];local k=l[(527979853)];local Z=l[((#{363;[995]=272;309;540;}+240565239))];local X=l[(656487816)];local w=l[(452665134)];local q=l[((#{221;211;230;(function(...)return 289,65;end)()}+563599252))];local h=l[(336439690)];local b=l[.1885125023259374];local function B(...)local l=({});local F=({});local i=({});for x=c,a(e)-n,n do local i=d(e);if(i==v)then local e=d(e);l[x]=(e~=c);elseif(i==h)then while(true)do local t=a(e);local o=a(e);local a=n;local t=(f(o,n,X)*(I^k))+t;local e=f(o,T,h);local o=((-n)^f(o,k));if(e==c)then if(t==c)then l[x]=(o*c);break;else e=n;a=c;end;elseif(e==b)then l[x]=(t==c)and(o*(n/c))or(o*(c/c));break;end;l[x]=J(o,e-V)*(a+(t/(I^w)));break;end;elseif(i==q)then while(true)do local a=a(e);if(a==c)then l[x]=('');break;end;if(a>H)then local c,d=(''),(u(E,t,t+a-n));t=t+a;for l=n,#d,n do local l=o(s(u(d,l,l)),e);e=l%A;c=c..r[l];end;l[x]=c;else local n,c=(''),({s(E,t,t+a-n)});t=t+a;for c,l in g(c)do local l=o(l,e);e=l%A;n=n..r[l];end;l[x]=n;end;break;end;else l[x]=(nil);end;end;local o=a(e);for l=c,o-n,n do i[l]=({});end;for F=c,o-n,n do local o=d(e);if(o~=c)then o=o-n;local E,r,A,t,h,u=c,c,c,c,c,c;local s=f(o,n,U);if(s==I)then h=(d(e));t=i[(a(e))];r=(x(e));elseif(s==D)then h=(d(e));t=(a(e));u=(x(e));r=(x(e));E=({});for l=n,u,n do E[l]=({[c]=d(e),[n]=x(e)});end;elseif(s==c)then h=(d(e));t=(x(e));u=(x(e));r=(x(e));elseif(s==U)then h=(d(e));t=i[(a(e))];u=(x(e));r=(x(e));elseif(s==n)then h=(d(e));t=(a(e));r=(x(e));elseif(s==C)then end;if(f(o,D,D)==n)then t=l[t];end;if(f(o,G,G)==n)then r=l[r];end;if(f(o,Z,Z)==n)then A=i[a(e)];else A=i[F+n];end;if(f(o,C,C)==n)then u=l[u];end;if(f(o,O,O)==n)then E=({});for l=n,d(),n do E[l]=a();end;end;local l=i[F];l[-p]=h;l["JW4ATUn"]=u;l["lHt9rp"]=A;l['q4IV949']=t;l["xxX"]=r;l['tGcaEn']=E;end;end;local o=x(e);local t=d(e);for l=c,a(e)-n,n do F[l]=B();end;return({["I240aLH9Os"]=F;[-218660.89318523038]=l;[Q]=o;[879262.8900337173]=c;[691641.3447375024]=t;[-581362.5327170708]=i;});end;return(B(...));end;local function i(l,u,f,...)local e=l[-218660.89318523038];local n=l[691641.3447375024];local e=l[-581362.5327170708];local o=0;local D=l["I240aLH9Os"];local d=l[128901];return(function(...)local F=-259410;local a=e[o];local A={};local x=-(1);local l=(true);local o="xxX";local E=(k(Z,...)-1);local c='q4IV949';local e={};local t="JW4ATUn";local s={...};local l=(381060158);local C="lHt9rp";local I="tGcaEn";local r=({});for l=0,E,1 do if(l>=n)then A[l-n]=s[l+1];else e[l]=s[l+1];end;end;local l=E-n+1;while(true)do local l=a;local n=l[F];a=l[C];if(n<=18)then if(n<=8)then if(n<=3)then if(n<=1)then if(n>0)then do return;end;elseif(n<1)then a=l[c];end;elseif(n==2)then e[l[o]]=(l[c]~=0);elseif(n<=3)then e[l[o]]=l[c];end;elseif(n<=5)then if(n==4)then e[l[o]]=u[l[c]];elseif(n<=5)then local n=l[o];local c={e[n](e[n+1]);};local o=l[t];local l=0;for n=n,o do l=l+1;e[n]=c[l];end;for l=o+1,d do e[l]=nil;end;end;elseif(n<=6)then local c=D[l[c]];local a=l[I];local n={};local x=Y({},{__index=function(e,l)local l=n[l];return(l[1][l[2]]);end,__newindex=function(o,l,e)local l=n[l];l[1][l[2]]=e;end;});for o=1,l[t],1 do local l=a[o];if(l[0]==0)then n[o-1]=({e,l[1]});else n[o-1]=({u,l[1]});end;r[#r+1]=n;end;e[l[o]]=i(c,x,f);elseif(n>7)then if(e[l[o]]==e[l[t]])then a=l[c];end;elseif(n<8)then if(e[l[o]]~=l[t])then a=l[c];end;end;elseif(n<=13)then if(n<=10)then if(n==9)then e[l[o]]=L(256);elseif(n<=10)then e[l[o]][l[c]]=l[t];end;elseif(n<=11)then e[l[o]]=e[l[c]][l[t]];elseif(n==12)then u[l[c]]=e[l[o]];elseif(n<=13)then local l=l[o];e[l](h(e,l+1,x));for l=l+1,x do e[l]=nil;end;end;elseif(n<=15)then if(n>14)then local l=l[o];local o,n=U(e[l](e[l+1]));x=n+l-1;local n=0;for l=l,x do n=n+1;e[l]=o[n];end;elseif(n<15)then if(not(e[l[o]]))then a=l[c];end;end;elseif(n<=16)then local t=l[o];local c={};for l=1,#r,1 do local l=r[l];for n=0,#l,1 do local n=l[n];local o=n[1];local l=n[2];if((o==e)and(l>=t))then c[l]=o[l];n[1]=c;end;end;end;elseif(n==17)then local n=l[o];e[n](h(e,n+1,l[c]));for l=n+1,d do e[l]=nil;end;elseif(n<=18)then e[l[o]]();end;elseif(n<=27)then if(n<=22)then if(n<=20)then if(n==19)then local l=l[o];e[l]=e[l](e[l+1]);for l=l+1,d do e[l]=nil;end;elseif(n<=20)then local c=l[c];local n=e[c];for l=c+1,l[t]do n=n..e[l];end;e[l[o]]=n;end;elseif(n>21)then local n=l[o];local o,l=U(e[n](h(e,n+1,l[c])));x=l+n-1;local l=0;for n=n,x do l=l+1;e[n]=o[l];end;elseif(n<22)then f[l[c]]=e[l[o]];end;elseif(n<=24)then if(n>23)then e[l[o]]=f[l[c]];elseif(n<24)then local l=l[o];e[l]=e[l]();end;elseif(n<=25)then local n=l[o];local t=l[t];local o=n+2;local n=({e[n](e[n+1],e[o]);});for l=1,t do e[o+l]=n[l];end;local n=n[1];if(n)then e[o]=n;a=l[c];end;elseif(n>26)then local l=l[o];e[l]=e[l](h(e,l+1,x));for l=l+1,x do e[l]=nil;end;elseif(n<27)then if(e[l[o]]>=e[l[t]])then a=l[c];end;end;elseif(n<=32)then if(n<=29)then if(n>28)then local l=l[o];e[l](e[l+1]);for l=l,d do e[l]=nil;end;elseif(n<29)then e[l[o]]=e[l[c]]+l[t];end;elseif(n<=30)then if(e[l[o]]~=e[l[t]])then a=l[c];end;elseif(n==31)then e[l[o]]=i(D[l[c]],(nil),f);elseif(n<=32)then e[l[o]][l[c]]=e[l[t]];end;elseif(n<=34)then if(n==33)then if(e[l[o]])then a=l[c];end;elseif(n<=34)then local o=l[o];local n=e[l[c]];e[o+1]=n;e[o]=n[l[t]];end;elseif(n<=35)then if(e[l[o]]==l[t])then a=l[c];end;elseif(n>36)then e[l[o]]=e[l[c]];elseif(n<37)then local n=l[o];e[n]=e[n](h(e,n+1,l[c]));for l=n+1,d do e[l]=nil;end;end;end;end);end;return i(T(),{},G())(...);end)(({[((#{684;(function(...)return 530,687,689,702;end)()}+563599252))]=((54));[(848670858)]=(((#{543;491;155;690;(function(...)return 119,678;end)()}-1)));[((#{592;88;350;}+761191559))]=("\50");[.4761648790334188]=("\107");[((#{878;605;47;}+401241119))]=((1023));[(697296372)]=((256));[(64900273)]=((130048863));[(130048863)]=("\117");[((#{[294]=225;417;76;(function(...)return 323,386,745,...;end)()}+336068394))]=((7));[(86881596)]=("\110");[(527979853)]=((32));[(570933015)]=(((#{183;589;557;}+36)));[(80180686)]=((65536));[(366047817)]=("\97");[((#{}+337432638))]=((374892899));[(526274007)]=("\104");[.37221233750330857]=((259410));[(809135620)]=((6));[.2809271171134557]=((585673998));[((#{682;[675]=543;893;(function(...)return;end)()}+269992647))]=("\111");["ICGo8cIZO"]=("\98");[((#{(function(...)return 883,384,180,473;end)()}+478635637))]=((994557280));[((#{[185]=821;981;}+127284953))]=("\120");[(597337308)]=("\116");[.8230917387749496]=((3));[(84819766)]=((128901));["urL4aIqUeX"]=(((#{415;(function(...)return 873,...;end)()}+127284952)));[(121281753)]=((2));[.08351236865087988]=(((#{}+761191562)));[(790657814)]=("\105");[.20116845294887595]=((535028319));[(572358229)]=(((#{187;[84]=622;577;164;[515]=60;641;}+683179905)));['ETxu99']=("\114");["OZ6avu"]=("\115");[((#{(function(...)return 707,508,...;end)(944,957)}+742059252))]=((4));['R74Qi']=((5000));[(771027085)]=((526274007));[(521823077)]=((366047817));[((#{[543]=697;446;279;62;(function(...)return 607;end)()}+517000300))]=("\118");[((#{}+336439690))]=((31));[.08904323591340484]=(((#{371;361;(function(...)return 918,...;end)(523,249)}+269992644)));['kUwqJDbU']=((66));[((#{}+585673998))]=("\109");[((#{[691]=879;617;223;330;264;(function(...)return 755;end)()}+240565237))]=(((#{959;623;}+6)));[(281544002)]=((517000304));['lzeCkgIQ']=("\112");['oYy7BP']=(((#{269;770;618;(function(...)return 898,532;end)()}+243)));[(373179551)]=((36));[(683179909)]=("\100");[(32495092)]=("\102");[(421184274)]=((46));[.526812108478887]=("\119");[.1885125023259374]=(((#{[605]=377;867;(function(...)return...;end)(833,346,222,744)}+2042)));["Wf6lo"]=(((#{(function(...)return 179,170,324,976;end)()}+16777212)));[(994557280)]=("\121");c0a22GVIc=(((#{[75]=227;207;(function(...)return 145,226,549,911;end)()}+85)));[(240802278)]=((0));[.042003201805987954]=((84));[((#{[15]=335;696;}+918234650))]=(((#{[578]=131;907;97;495;[153]=836;854;}+86881592)));[((#{[977]=246;869;}+785968922))]=(((#{(function(...)return 186,538,...;end)(839,799,508)}+32495087)));[.2044827803990258]=(((#{(function(...)return 285,972,931;end)()}+18)));[(801758775)]=("\99");[(415922573)]=((165));["kCNqSJCHdM"]=(((#{646;(function(...)return 182,894,208;end)()}+790657810)));[((#{[56]=0;537;[818]=95;802;569;(function(...)return 406,922,49,128;end)()}+656487809))]=(((#{749;358;[785]=610;87;}+17)));['xk5Ud99']=("\108");[((#{(function(...)return 653,696,239;end)()}+960645282))]=((597337308));[((#{499;[477]=831;[501]=95;392;34;}+374892896))]=("\51");[((#{(function(...)return 53,156,227,371;end)()}+452665130))]=((52));[((#{948;}+535028318))]=("\101");[(248809609)]=((801758775));[((#{847;529;[192]=412;[425]=675;40;833;(function(...)return;end)()}+199155418))]=(((#{893;217;308;}-2)));}),...);
+--[[
+    BAD CODE BELOW
+]]--
+
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end
+if not syn then
+    game:GetService("Players").LocalPlayer:Kick("synapse only")
+end
+wait(1)
+spawn(
+    function()
+        _G.gamer = true
+        while _G.gamer == true do
+            wait()
+            if game:GetService("ReplicatedStorage").wkspc.Status.RoundOver.Value == true then
+                local PlaceID = game.PlaceId
+                local AllIDs = {}
+                local foundAnything = ""
+                local actualHour = os.date("!*t").hour
+                local Deleted = false
+                local File =
+                    pcall(
+                    function()
+                        AllIDs = game:GetService("HttpService"):JSONDecode(readfile("NotSameServers.json"))
+                    end
+                )
+                if not File then
+                    table.insert(AllIDs, actualHour)
+                    writefile("NotSameServers.json", game:GetService("HttpService"):JSONEncode(AllIDs))
+                end
+                function TPReturner()
+                    local Site
+                    if foundAnything == "" then
+                        Site =
+                            game.HttpService:JSONDecode(
+                            game:HttpGet(
+                                "https://games.roblox.com/v1/games/" ..
+                                    PlaceID .. "/servers/Public?sortOrder=Asc&limit=100"
+                            )
+                        )
+                    else
+                        Site =
+                            game.HttpService:JSONDecode(
+                            game:HttpGet(
+                                "https://games.roblox.com/v1/games/" ..
+                                    PlaceID .. "/servers/Public?sortOrder=Asc&limit=100&cursor=" .. foundAnything
+                            )
+                        )
+                    end
+                    local ID = ""
+                    if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+                        foundAnything = Site.nextPageCursor
+                    end
+                    local num = 0
+                    for i, v in pairs(Site.data) do
+                        local Possible = true
+                        ID = tostring(v.id)
+                        if tonumber(v.maxPlayers) > tonumber(v.playing) then
+                            for _, Existing in pairs(AllIDs) do
+                                if num ~= 0 then
+                                    if ID == tostring(Existing) then
+                                        Possible = false
+                                    end
+                                else
+                                    if tonumber(actualHour) ~= tonumber(Existing) then
+                                        local delFile =
+                                            pcall(
+                                            function()
+                                                delfile("NotSameServers.json")
+                                                AllIDs = {}
+                                                table.insert(AllIDs, actualHour)
+                                            end
+                                        )
+                                    end
+                                end
+                                num = num + 1
+                            end
+                            if Possible == true then
+                                table.insert(AllIDs, ID)
+                                wait()
+                                pcall(
+                                    function()
+                                        writefile(
+                                            "NotSameServers.json",
+                                            game:GetService("HttpService"):JSONEncode(AllIDs)
+                                        )
+                                        wait()
+                                        game:GetService("TeleportService"):TeleportToPlaceInstance(
+                                            PlaceID,
+                                            ID,
+                                            game.Players.LocalPlayer
+                                        )
+                                    end
+                                )
+                                wait(4)
+                            end
+                        end
+                    end
+                end
+
+                function Teleport()
+                    while wait() do
+                        pcall(
+                            function()
+                                TPReturner()
+                                if foundAnything ~= "" then
+                                    TPReturner()
+                                end
+                            end
+                        )
+                    end
+                end
+                Teleport()
+            end
+        end
+    end
+)
+spawn(
+    function()
+        if game:GetService("ReplicatedStorage").wkspc.Status.RoundOver.Value == false then
+            game:GetService("ReplicatedStorage").Events.JoinTeam:FireServer("TRC")
+            wait(0.8)
+            game:GetService("ReplicatedStorage").Events.JoinTeam:FireServer("TBC")
+            wait(0.8)
+            game:GetService("ReplicatedStorage").Events.JoinTeam:FireServer("Spectator")
+
+            local Players = game:GetService("Players")
+            local LocalPlayer = Players.LocalPlayer
+            local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+            local ReplicatedStorage = game:GetService("ReplicatedStorage")
+            local JoinTeam = Events:WaitForChild("JoinTeam")
+            local FallDamage = Events:WaitForChild("FallDamage")
+            local RunService = game:GetService("RunService")
+            wait(1)
+            repeat
+                for Index, Player in next, Players:GetPlayers() do
+                    if Character:FindFirstChild("Spawned") then
+                        Character.Spawned:Destroy()
+                    end
+
+                    pcall(
+                        function()
+                            if (Player.Character:FindFirstChild("Spawned")) then
+                                repeat
+                                    Character.HumanoidRootPart.Position = Player.Character.Hitbox.Position
+                                    FallDamage:FireServer(25000, Player.Character.Hitbox)
+                                    RunService.RenderStepped:Wait()
+                                until not Player.Character:FindFirstChild("Spawned")
+                            elseif not Player.Character:FindFirstChild("Spawned") then
+                                Character.HumanoidRootPart.Position = Vector3.new(math.huge, math.huge, math.huge)
+                            end
+                        end
+                    )
+                end
+
+                RunService.RenderStepped:Wait()
+            until Preparation.Value
+        end
+    end
+)
+syn.queue_on_teleport('https://raw.githubusercontent.com/Jayden1113/Arsenal/master/Autofarm.lua')
