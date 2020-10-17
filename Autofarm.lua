@@ -115,9 +115,6 @@ spawn(
 )
 spawn(
     function()
-        if not game:IsLoaded() then
-            game.Loaded:Wait()
-        end
         if game:GetService("ReplicatedStorage").wkspc.Status.RoundOver.Value == false then
             game:GetService("ReplicatedStorage").Events.JoinTeam:FireServer("TRC")
             wait(0.9)
