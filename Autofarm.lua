@@ -4,7 +4,7 @@ end
 if not syn then
     game:GetService("Players").LocalPlayer:Kick("synapse only")
 end
-wait(1)
+wait(2.8)
 spawn(
     function()
         _G.gamer = true
